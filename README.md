@@ -15,6 +15,6 @@ Microdesafio 3
 Liste os aparelhos exibindo o modelo do aparelho juntamente dos itens consertados e aplique uma soma nos valor dos consertos e exibir no console somente os aparelhos que estão pronto marcado como true. Exemplo:
 
 
-Navegue até a pasta do arquivo e execulte o comando abaixo para testar
+NAVEGUE ATÉ A PASTA DO ARQUIVO E EXECUTE O COMANDO ABAIXO PARA TESTAR
 
 node listaconsertados.js
